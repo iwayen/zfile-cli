@@ -11,6 +11,12 @@
 * 安装旧版Z-File
 * 启动、停止、重启
 
+## 使用教程
+
+```
+wget -P ~ https://raw.githubusercontent.com/iwayen/zfile-cli/master/zfile.sh && chmod +x zfile.sh && ./zfile.sh
+```
+
 # Z-File项目介绍
 
 ## Z-File
