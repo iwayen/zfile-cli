@@ -6,6 +6,7 @@
 #	Version: 0.1
 #	Author: wayen
 #	Blog: https://www.iwayen.cn/
+#	Github: https://github.com/iwayen/zfile-cli
 #=================================================
 
 #颜色设置
