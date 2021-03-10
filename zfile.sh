@@ -151,6 +151,10 @@ ${Green_font_prefix}2.${Font_color_suffix} 安装Z-file v2.3(多盘版本)
 ${Green_font_prefix}3.${Font_color_suffix} 安装Z-file v2.4(多盘版本)
 ${Green_font_prefix}4.${Font_color_suffix} 安装Z-file v2.5(多盘版本)
 ${Green_font_prefix}5.${Font_color_suffix} 安装Z-file v2.6(多盘版本)
+${Green_font_prefix}6.${Font_color_suffix} 安装Z-file v2.7(多盘版本)
+${Green_font_prefix}7.${Font_color_suffix} 安装Z-file v2.8(多盘版本)
+${Green_font_prefix}8.${Font_color_suffix} 安装Z-file v2.8.1(多盘版本)
+${Green_font_prefix}9.${Font_color_suffix} 安装Z-file v2.9(多盘版本)
 ${Green_font_prefix}0.${Font_color_suffix} 退出脚本
 ————————————————————————————————" && echo
 
@@ -178,6 +182,22 @@ ${Green_font_prefix}0.${Font_color_suffix} 退出脚本
 	5)
 	clear_zfile
 	install_zfile 2.6
+	;;
+	6)
+	clear_zfile
+	install_zfile 2.7
+	;;
+	7)
+	clear_zfile
+	install_zfile 2.8
+	;;
+	8)
+	clear_zfile
+	install_zfile 2.8.1
+	;;
+	9)
+	clear_zfile
+	install_zfile 2.9
 	;;
 	*)
 	clear
